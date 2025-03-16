@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "my_oop",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2025-03-16T17:17:00.478614Z",
+  "generator": "pub",
+  "generatorVersion": "3.7.0",
+  "flutterRoot": "file:///C:/src/flutter",
+  "flutterVersion": "3.29.1",
+  "pubCache": "file:///C:/Users/AlanEt/AppData/Local/Pub/Cache"
+}
